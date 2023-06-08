@@ -1,2 +1,2 @@
-!#/bin/bash
-ln /bin/Is _IS_
+#!/bin/bash
+ln /bin/Is _Is_
