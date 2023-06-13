@@ -1,1 +1,1 @@
-shell project 2
+project
